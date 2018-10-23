@@ -1,2 +1,2 @@
 # Random-Hashes
-Randomly generated hashes (MD5, SHA-1, SHA-256, SHA-512)
+Look for all the available hashing algorithms available to the system; loop through each one and output a random hash based off a random hex value. All the hashes are put together into a long string that is just wrapped in the browser. There is no telling where one ends and the next has begins. You can simply copy any part of the output to use as a random seed or as a password if needed.
